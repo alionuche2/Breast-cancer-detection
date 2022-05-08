@@ -1,0 +1,2 @@
+# Breast-cancer-detection
+With Python, we created a system to identify breast cancer. To detect the presence of Invasive Ductal Carcinoma, the most frequent kind of breast cancer, we utilize the IDC regular dataset. It begins in a milk duct and spreads outside the duct to fibrous or fatty breast tissue. For categorization, we utilize Deep Learning and the Keras package in this data science project concept.
